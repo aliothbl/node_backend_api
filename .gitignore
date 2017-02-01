@@ -1,0 +1,11 @@
+/node_modules/
+/typings/
+build
+dist
+dev
+docs
+lib
+test
+tmp
+.DS_Store
+

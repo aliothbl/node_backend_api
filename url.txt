@@ -1,0 +1,11 @@
+https://github.com/edomingues/jersey2-jetty-example
+
+
+https://sangupta.com/tech/rest-server-with-jetty.html
+https://dzone.com/articles/standalone-java-application-with-jersey-and-jetty
+http://nikgrozev.com/2014/10/16/rest-with-embedded-jetty-and-jersey-in-a-single-jar-step-by-step/
+
+https://www.codeproject.com/Articles/1088572/Node-js-Application-written-in-Typescript-with-Mon
+https://vane.life/2015/11/22/code-in-real-world-typescript-step-by-step/
+https://medium.com/@maxofeden/typescript-for-a-node-v6-backend-7d63afb591ad#.i4a1nr2w1
+https://github.com/parambirs/todo-backend-typescript
